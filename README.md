@@ -5,8 +5,8 @@ Pagar.me R library
 
 ## Documentation
 
-* [Documentation](https://pagar.me/docs)
-* [Full API Guide](https://docs.pagar.me/api)
+* [Documentation](https://docs.pagar.me/)
+* [Full API Guide](https://docs.pagar.me/reference)
 
 ## Getting Started
 
@@ -21,13 +21,13 @@ install.packages("pagarmeR")
 
 ### Configure your API key
 
-You can set your API key in Ruby:
+You can set your API key in R:
 
 ```r
 library(pagarmeR)
 
-PagarMe$api_key        <- 'YOUR_API_KEY_HERE'
-PagarMe$encryption_key <- 'YOUR_ENCRYPTION_KEY_HERE'
+PagarMe$api_key        <- "YOUR_API_KEY_HERE"
+PagarMe$encryption_key <- "YOUR_ENCRYPTION_KEY_HERE"
 ```
 
 
@@ -35,7 +35,7 @@ PagarMe$encryption_key <- 'YOUR_ENCRYPTION_KEY_HERE'
 
 See our [demo checkout](https://pagar.me/checkout).
 
-More about how to use it [here](https://docs.pagar.me/checkout).
+More about how to use it [here](https://docs.pagar.me/docs/overview-checkout).
 
 
 ## Support

@@ -1,0 +1,10 @@
+Package: pagarmeR
+Type: Package
+Title: PagarMe R Library
+Version: 1.0.0.0
+Author: Alexandre de Souza <alexandre@aledsz.com.br>
+Maintainer: Alexandre de Souza <alexandre@aledsz.com.br>
+Description: R Integration of PagarMe's API
+License: MIT
+Encoding: UTF-8
+LazyData: true
