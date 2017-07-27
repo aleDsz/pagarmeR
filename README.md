@@ -14,7 +14,7 @@ Pagar.me R library
 
 You can install via R
 
-```shell
+```r
 install.packages("pagarmeR")
 ```
 
