@@ -6,7 +6,7 @@
 PagarMeModel <- methods::setRefClass(
     "PagarMeModel",
 
-    contains = c("PagarMeObject"),
+    contains = c("PagarMeObject", "PagarMe"),
 
     methods = list(
 

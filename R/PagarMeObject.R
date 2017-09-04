@@ -1,9 +1,10 @@
 #' PagarMeObject class
 #'
 #' @aliases PagarMeObject PagarMeObject
+#' @import methods
 #' @export PagarMeObject PagarMeObject
 
-PagarMeObject <- methods::setRefClass(
+PagarMeObject <- setRefClass(
     "PagarMeObject",
 
     fields = list(
