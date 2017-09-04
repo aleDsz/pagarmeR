@@ -1,5 +1,5 @@
 # pagarmeR
-[![Build Status](https://travis-ci.org/aleDsz/pagarmeR.svg?branch=master)](https://travis-ci.org/aleDsz/pagarmeR)
+[![Build Status](https://travis-ci.org/aleDsz/pagarmeR.svg?branch=master)](https://travis-ci.org/aleDsz/pagarmeR) [![Coverage Status](https://coveralls.io/repos/github/aleDsz/pagarmeR/badge.svg?branch=master)](https://coveralls.io/github/aleDsz/pagarmeR?branch=master)
 
 Pagar.me R library
 
